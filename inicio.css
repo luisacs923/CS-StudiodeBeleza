@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+body {
+    background-color: #000624;
+    color: white;
+}
+
+.cabecalho {
+    background-color: #f69891;
+    color: #000000;
+    font-size: 1.5rem;
+    width: 100%;
+    padding-top: 20px;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+.cabecalho-link {
+    display: flex;
+    justify-content: flex-end;
+    text-decoration: none;
+    list-style: none;
+    padding-bottom: 10px;
+}
+
+.cabecalho-link li a {
+    font-size: 1.5rem;
+    padding: 10px;
+    text-decoration: none;
+    box-sizing: border-box;
+    color: #ffffff;
+}
+
+ header .cabecalho-img {
+    width: 100vw;
+    height: 95vh;
+ }
+
+.titulo-principal {
+    text-align: center;
+}
+
+.titulo-principal h2 {
+    font-size: 2rem;
+}
+
+.titulo-principal p {
+    font-size: 1.2rem;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: justify;
+}
+
+.servicos {
+    margin: 10px 10px;
+    padding: 15px 0;
+}
+
+.servicos-lista {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.servicos-lista h3 {
+    font-size: 1.5rem;
+    padding: 10px 10px;
+}
+
+.servicos h2 {
+    text-align: center;
+    font-size: 2rem;
+    background-color: #f69891;
+}
+
+.servicos li {
+    display: inline-block;
+    text-align: center;
+    width: 18rem;
+    vertical-align: top;
+    margin: 0 5px;
+    padding: 20px 20px;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.servicos li img {
+    width: 15rem;
+    height: 15rem;
+    border-radius: 1rem;
+}
+
+.servicos li:hover {
+    border-color: ##f69891;
+}
+
+.servicos li:active {
+    border-color: #FF99A4;
+}
+
+.servicos-descricao {
+    font-size: 1.5rem;
+}
+
+footer {
+    background-color: #f69891;
+}
+
+footer span {
+    text-align: center;
+    font-size: 1.2rem;
+}
