@@ -1,2 +1,2 @@
-# CS-StudiodeBeleza
+# CSS-StudiodeBeleza
 Exercicio css Softex
