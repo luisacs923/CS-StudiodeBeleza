@@ -1,4 +1,8 @@
-
+:root{
+  --main-color: #f69891;
+  --hover-color:
+  --letter-color:
+  --text-font-family:
 main {
   min-width: 800px;
   width: 100%;
@@ -14,7 +18,7 @@ h1 {
   border: #000624;
 }
 header.cabecalho{
-  background-color: #f69891;
+  background-color: var(main-color);
   width: 100%;
   min-width: inherit;
   justify-content: center;
