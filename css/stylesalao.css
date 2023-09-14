@@ -18,7 +18,7 @@ h1 {
   border: #000624;
 }
 header.cabecalho{
-  background-color: var(main-color);
+  background-color: var(--main-color);
   width: 100%;
   min-width: inherit;
   justify-content: center;
