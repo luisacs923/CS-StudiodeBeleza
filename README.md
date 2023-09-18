@@ -35,4 +35,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 	
 <a href="https://github.com/luisacs923">Luisa Correia</a>	
 
-<a href="https://github.com/Marcoslira91"><Marcos Lira</a>	
+<a href="https://github.com/Marcoslira91">Marcos Lira</a>	
